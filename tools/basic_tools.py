@@ -1,4 +1,4 @@
-# 함수 정의
+# 따로 빼서 관리 가능
 
 from datetime import datetime
 
