@@ -10,7 +10,7 @@ model.fit(X, y)
 with open('linear_model.pkl', 'rb') as f:
     loaded_model = pickle.load(f)
 
-print("Model loaded successfully.")
+print("load OK!")
 
 y_pred = loaded_model.predict(X)
 print(y_pred)
