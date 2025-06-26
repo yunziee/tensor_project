@@ -10,3 +10,4 @@ _pycache__/
 *.xlsx
 .env
 *.pkl
+*.pdf
