@@ -11,3 +11,4 @@ _pycache__/
 .env
 *.pkl
 *.pdf
+*.png
